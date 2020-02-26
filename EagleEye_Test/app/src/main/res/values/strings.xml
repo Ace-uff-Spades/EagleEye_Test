@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EagleEye</string>
+    <string name="title_todo">Tasks To Do</string>
+    <string name="title_done">Tasks Completed</string>
+</resources>
